@@ -22,7 +22,7 @@ procrastination and some thoughts from master procrastinator and friends
    ![Eat the forg](/images/uploads/theverticalstory-xmbqhqtzvmq-unsplash.jpg "Frog")
 3. Eat the **frog** (do the hardest and scariest task) \[conqour your fears]
 
-   ![kill the monkey](/images/uploads/tony-reid-nwdjsdw7rv8-unsplash.jpg "monkey")
+   ![kill the monkey](/images/uploads/ttony-reid-nwdjsdw7rv8-unsplash.jpg "monkey")
 4. Kill the **monkey** (don’t procrastinate) and do what you need to do without being asked to. \[let the rational brain take over]
 
    ![](/images/uploads/zombie_fest_2009-_brain_eating_zombie_-4003555494-.jpg "feed your zombie")
