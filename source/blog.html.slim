@@ -1,0 +1,8 @@
+section.homepage-blog.blog
+  .container
+    h2
+      | Blog
+    .blog-items
+      //get the first two most recent posts
+      - blog.articles.each do | article |
+        = partial 'partials/blog/blog_item', locals: {article: article}

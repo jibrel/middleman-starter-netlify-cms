@@ -1,4 +1,4 @@
-article.news-item
+article.blog-item
   .row
     .image
       - if article.data.image
@@ -14,7 +14,7 @@ article.news-item
       .wrapper
         = link_to article
           h3 = article.data.title
-        
+
         p = article.data.description
 
         = link_to 'Read the story', article, class: 'cta'
