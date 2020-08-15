@@ -1,5 +1,5 @@
 ---
-title: Kaldi - Middleman + Netlify CMS Example
+title: Yazid Jibrel Personal Blog
 ---
 
 section.hero style=background_image(image_path(data.pages.home.hero.image))
@@ -20,7 +20,7 @@ section.homepage-products.products
     .row
       //product is structured: ['filename', 'data']
       //sort by newest product
-      - data.products.sort {|a,b| b[1].date <=> a[1].date}.first(3).each do | product |
+      - data.products.sort {|a,b| b[1].date <=> a[1].date}.first(4).each do | product |
 
         //to get the actual data:
         = partial 'partials/products/product', locals: {product: product[1]}
