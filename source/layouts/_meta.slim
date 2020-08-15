@@ -3,11 +3,23 @@ meta charset="utf-8"
 meta content="ie=edge" http-equiv="x-ua-compatible"
 meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"
 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-84661005-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-84661005-1');
+</script>
+
+
 // Set dynamic and default meta
 - title = current_page.data.title || "Kaldi - Middleman + Netlify CMS Example"
 - description = current_page.data.description || "A simple example to get started with Middleman and Netlify CMS"
 //Change this to your domain
-- url = "https://brave-hypatia-0b12fd.netlify.com"
+- url = "https://yazid.blog"
 - image = current_page.data.image || "/images/uploads/homepage-hero.jpg"
 
 title =title
