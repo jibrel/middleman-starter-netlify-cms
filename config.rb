@@ -50,6 +50,17 @@ end
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
 
+
+
+# Google google_analytics
+# found this code on https://ddventures.co/static-website-in-2h/Add-Google-Analytics-to-Middleman-static-website.html
+activate :google_analytics do |ga|
+ga.tracking_id = 'UA-84661005-1' # Use your Tracking ID from above
+end
+
+
+
+
 # pretty urls
 activate :directory_indexes
 
